@@ -1,0 +1,75 @@
+
+
+ > > > kfNgram run at 06:18:08 on 12-04-2016 < < <
+06:18:08, file 2 of 2 - Read 62,658 bytes from C:\Users\thomas\Dropbox\graduate school\ling516\thirdAnalysisPaper\mlpaf.s02_dialog.txt
+11,690 tokens indexed in 0.063 secs.
+
+Sorting . . . . .
+
+   1. First sort, on  12 chars, 11,690  tokens in  0.046 sec. 
+   2. Starting second sort on 128 bytes . . . . . .
+      Second sort in 1 passes, items per subsort 80,000 , actual max 11,690 
+      -- Total time  0.078 sec. 
+ Sorted in  0.234 sec. 
+Creating n-gram files . . . . .
+
+     3-grams...
+      - re-sorting by frequency...
+      - saving to file...
+      - Done. 110 3-grams occurring 3 or more times saved in  0.312 sec. 
+
+Job completed in 0.889 sec. 
+====================
+
+
+
+
+ > > > kfNgram run at 23:06:27 on 12-03-2016 < < <
+23:06:27, file 2 of 2 - Loaded 59,021 bytes from C:\Users\thomas\Dropbox\graduate school\ling516\thirdAnalysisPaper\mlpaf.s02_dialog.txt.NCK80.idxd
+Getting sorted index . . . . .
+
+Creating n-gram files . . . . .
+
+     3-grams...
+      - re-sorting by frequency...
+      - saving to file...
+      - Done. 110 3-grams occurring 3 or more times saved in  0.296 sec. 
+
+Job completed in 0.515 sec. 
+====================
+
+
+
+
+ > > > kfNgram run at 23:06:46 on 12-03-2016 < < <
+23:06:46, file 2 of 2 - Loaded 59,021 bytes from C:\Users\thomas\Dropbox\graduate school\ling516\thirdAnalysisPaper\mlpaf.s02_dialog.txt.NCK80.idxd
+Getting sorted index . . . . .
+
+Creating n-gram files . . . . .
+
+     4-grams...
+      - re-sorting by frequency...
+      - saving to file...
+      - Done. 7 4-grams occurring 4 or more times saved in  0.266 sec. 
+
+Job completed in 0.483 sec. 
+====================
+
+
+
+
+ > > > kfNgram run at 20:19:24 on 12-04-2016 < < <
+20:19:24, file 2 of 2 - Loaded 59,021 bytes from C:\Users\thomas\Dropbox\graduate school\ling516\thirdAnalysisPaper\mlpaf.s02_dialog.txt.NCK80.idxd
+Getting sorted index . . . . .
+
+Creating n-gram files . . . . .
+
+     4-grams...
+      - re-sorting by frequency...
+      - saving to file...
+      - Done. 7 4-grams occurring 4 or more times saved in  0.185 sec. 
+
+Job completed in 0.328 sec. 
+====================
+
+

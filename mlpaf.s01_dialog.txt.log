@@ -1,0 +1,73 @@
+
+
+ > > > kfNgram run at 06:18:06 on 12-04-2016 < < <
+37,478 tokens indexed in 0.062 secs.
+
+Sorting . . . . .
+
+   1. First sort, on  12 chars, 37,478  tokens in  0.063 sec. 
+   2. Starting second sort on 128 bytes . . . . . .
+      Second sort in 1 passes, items per subsort 80,000 , actual max 37,478 
+      -- Total time  0.094 sec. 
+ Sorted in  0.312 sec. 
+Creating n-gram files . . . . .
+
+     3-grams...
+      - re-sorting by frequency...
+      - saving to file...
+      - Done. 657 3-grams occurring 3 or more times saved in  0.702 sec. 
+
+Job completed in 1.404 sec. 
+====================
+
+
+
+
+ > > > kfNgram run at 23:06:26 on 12-03-2016 < < <
+23:06:26, file 1 of 2 - Loaded 189,749 bytes from C:\Users\thomas\Dropbox\graduate school\ling516\thirdAnalysisPaper\mlpaf.s01_dialog.txt.NCK80.idxd
+Getting sorted index . . . . .
+
+Creating n-gram files . . . . .
+
+     3-grams...
+      - re-sorting by frequency...
+      - saving to file...
+      - Done. 657 3-grams occurring 3 or more times saved in  0.733 sec. 
+
+Job completed in 0.920 sec. 
+====================
+
+
+
+
+ > > > kfNgram run at 23:06:45 on 12-03-2016 < < <
+23:06:45, file 1 of 2 - Loaded 189,749 bytes from C:\Users\thomas\Dropbox\graduate school\ling516\thirdAnalysisPaper\mlpaf.s01_dialog.txt.NCK80.idxd
+Getting sorted index . . . . .
+
+Creating n-gram files . . . . .
+
+     4-grams...
+      - re-sorting by frequency...
+      - saving to file...
+      - Done. 65 4-grams occurring 4 or more times saved in  0.639 sec. 
+
+Job completed in 0.889 sec. 
+====================
+
+
+
+
+ > > > kfNgram run at 20:19:23 on 12-04-2016 < < <
+Getting sorted index . . . . .
+
+Creating n-gram files . . . . .
+
+     4-grams...
+      - re-sorting by frequency...
+      - saving to file...
+      - Done. 65 4-grams occurring 4 or more times saved in  0.403 sec. 
+
+Job completed in 0.577 sec. 
+====================
+
+

@@ -1,0 +1,70 @@
+in the middle of                70
+the top of the                  68
+the end of the                  65
+the edge of the                 63
+in front of the                 60
+the back of the                 51
+the middle of the               51
+at the end of                   50
+I don’t want to                 49
+the rest of the                 48
+for the first time              45
+out of the window               45
+the side of the                 45
+on the other side               42
+the other side of               40
+what are you doing              40
+but there was no                36
+other side of the               34
+what do you mean                34
+at the same time                33
+he was going to                 31
+I don’t know what               30
+
+the end of the               1041
+for the first time               963
+the rest of the               905
+at the end of               836
+in the middle of               733
+at the same time               673
+I don’t want to               669
+the back of the               654
+the edge of the               645
+the top of the               556
+in front of the               515
+the middle of the               511
+the side of the               501
+he was going to               490
+the other side of               488
+what do you mean               481
+I don’t know what               475
+he shook his head               453
+she shook her head               431
+on the other side               427
+on the edge of               415
+what do you think               412
+
+MLPAF  &    &  MLPFIM  &    &  CLLIP  &    &  COMP  & \\
+i do n't know  &  31  &  i 'm gon na  &  55  &  in the middle of     &  70  &  the end of the       &  1041  \\
+we 've got to  &  28  &  i do n't know  &  53  &  the top of the       &  68  &  for the first time   &  963  \\
+get out of here  &  24  &  the elements of harmony  &  27  &  the end of the       &  65  &  the rest of the      &  905  \\
+what 's going on  &  20  &  the grand galloping gala  &  26  &  the edge of the      &  63  &  at the end of        &  836  \\
+we 're gon na  &  17  &  what are you doing  &  26  &  in front of the      &  60  &  in the middle of     &  733  \\
+what are you doing  &  15  &  you 're gon na  &  24  &  the back of the      &  51  &  at the same time     &  673  \\
+i 'm gon na  &  13  &  i ca n't believe  &  23  &  the middle of the    &  51  &  I don't want to      &  669  \\
+the rainbow of light  &  13  &  i do n't think  &  23  &  at the end of        &  50  &  the back of the      &  654  \\
+we 'll have to  &  12  &  we 're gon na  &  23  &  I don't want to      &  49  &  the edge of the      &  645  \\
+do n't want to  &  12  &  do n't wan na  &  22  &  the rest of the      &  48  &  the top of the       &  556  \\
+ve got to get  &  11  &  i do n't have  &  21  &  for the first time   &  45  &  in front of the      &  515  \\
+we 've got ta  &  11  &  why do n't you  &  21  &  out of the window    &  45  &  the middle of the    &  511  \\
+back to paradise estate  &  11  &  great and powerful trixie  &  20  &  the side of the      &  45  &  the side of the      &  501  \\
+yeah yeah yeah yeah  &  10  &  what do you think  &  19  &  on the other side    &  42  &  he was going to      &  490  \\
+you 're gon na  &  10  &  i 've never seen  &  19  &  the other side of    &  40  &  the other side of    &  488  \\
+no no no no  &  10  &  what 's going on  &  18  &  what are you doing   &  40  &  what do you mean     &  481  \\
+why do n't you  &  9  &  that 's what i  &  16  &  but there was no     &  36  &  I don�t know what    &  475  \\
+what 's the matter  &  9  &  the great and powerful  &  16  &  other side of the    &  34  &  he shook his head    &  453  \\
+i just do n't  &  9  &  you 've got to  &  16  &  what do you mean     &  34  &  she shook her head   &  431  \\
+i do n't think  &  9  &  tomorrow spring is here  &  15  &  at the same time     &  33  &  on the other side    &  427  \\
+you can do it  &  9  &  in all of equestria  &  15  &  he was going to      &  31  &  on the edge of       &  415  \\
+re rich we 're  &  9  &  cause tomorrow spring is  &  15  &  I don't know what    &  30  &  what do you think    &  412  \\
+  \\

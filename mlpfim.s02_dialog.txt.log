@@ -1,0 +1,23 @@
+
+
+ > > > kfNgram run at 23:09:15 on 12-03-2016 < < <
+23:09:15, file 2 of 2 - Read 284,185 bytes from C:\Users\thomas\Dropbox\graduate school\ling516\thirdAnalysisPaper\mlpfim.s02_dialog.txt
+51,345 tokens indexed in 0.063 secs.
+
+Sorting . . . . .
+
+   1. First sort, on  12 chars, 51,345  tokens in  0.078 sec. 
+   2. Starting second sort on 128 bytes . . . . . .
+      Second sort in 1 passes, items per subsort 80,000 , actual max 51,345 
+      -- Total time  0.094 sec. 
+Creating n-gram files . . . . .
+
+     4-grams...
+      - re-sorting by frequency...
+      - saving to file...
+      - Done. 71 4-grams occurring 4 or more times saved in  0.874 sec. 
+
+Job completed in 1.607 sec. 
+====================
+
+
